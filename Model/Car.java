@@ -60,5 +60,5 @@ public class Car {
         Car car = (Car) o;
         return Objects.equals(license, car.license);
     }
-    
+
 }
